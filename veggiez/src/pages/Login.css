@@ -1,0 +1,6 @@
+.full-width{
+  /* width:100%; */
+  overflow-x: hidden;
+  /* white-space: nowrap; */
+}
+

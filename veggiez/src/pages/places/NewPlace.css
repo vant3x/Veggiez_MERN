@@ -1,0 +1,19 @@
+.Card-newPlace{
+  text-align: left;
+  padding:20px;
+}
+.header-newp{
+  border-bottom: solid 2px #eee;
+}
+
+.align-right{
+  text-align: right;
+}
+
+.m-top{
+  margin-top:1em;
+}
+
+.hidden{
+  display: none;
+}

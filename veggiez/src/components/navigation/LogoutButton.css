@@ -1,0 +1,14 @@
+.align{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+.account{
+  top: 335px;
+  /* align-self: center; */
+  /* margin-top:-250px; */
+  /* vertical-align: middle; */
+}

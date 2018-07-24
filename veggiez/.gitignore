@@ -1,10 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/API/node_modules
-./API/node_modules
-/veggiez/node_modules
-./veggiez/node_modules
+/node_modules
 
 # testing
 /coverage
@@ -26,9 +23,3 @@ yarn-error.log*
 #images
 ./veggiez/public/images
 /veggiez/public/images
-
-#security
-./API/uploads
-/API/uploads
-API/config/secrets*.js
-./API/config/secrets*.js

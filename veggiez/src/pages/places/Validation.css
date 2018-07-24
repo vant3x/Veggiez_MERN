@@ -1,0 +1,24 @@
+.Validation-container{
+  background: rgba(254, 42, 42, 0.199);
+  width: 400px;
+  border-radius: 3px;
+  color:rgb(146, 0, 0);
+  padding: 20px 20px;
+  display: none;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  top:30px;
+  position: relative;
+  font-size: 1.2em;
+}
+
+@media (max-width: 420px){
+  .Validation-container{
+    width:280px;
+  }
+  .save-btn{
+    margin-top:30px;
+    text-align: center;
+  }
+}

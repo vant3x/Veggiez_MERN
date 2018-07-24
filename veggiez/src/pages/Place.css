@@ -1,0 +1,14 @@
+.Place-cover{
+    height: 420px;
+    background-size: cover;
+    background-position: center;
+}
+
+.Place-card{
+    text-align: left;   
+    padding: 30px;
+}
+
+.Place-container{
+
+}
